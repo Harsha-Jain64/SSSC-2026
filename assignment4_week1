@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Portfolio</title>
+</head>
+<body>
+
+    <h1>My Portfolio</h1>
+
+    <h2>Photo</h2>
+    <img src="https://static.vecteezy.com/system/resources/previews/029/271/069/original/avatar-profile-icon-in-flat-style-female-user-profile-illustration-on-isolated-background-women-profile-sign-business-concept-vector.jpg" alt="My Photo" width="200">
+
+    <h2>About Me</h2>
+    <p>
+        Hello! My name is Harsha Jain. I am learning web development
+        and enjoy creating websites and exploring new technologies.
+    </p>
+
+    <h2>Skills</h2>
+    <ul>
+        <li>HTML</li>
+        <li>Python</li>
+        <li>C++ Programming</li>
+    </ul>
+
+    <h2>Projects</h2>
+    <ol>
+        <li>Meme Page</li>
+        <li>Zomato Restaurant Page</li>
+        <li>Shaadi.com Profile Form</li>
+    </ol>
+
+    <h2>Contact</h2>
+    <p>Email: abc@gmail.com</p>
+    <p>Phone: 98XXXXXXXX</p>
+
+    <h2>Social Links</h2>
+    <a href="https://www.linkedin.com">LinkedIn</a><br>
+    <a href="https://www.github.com">GitHub</a><br>
+    <a href="https://www.instagram.com">Instagram</a>
+
+</body>
+</html>
