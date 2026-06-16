@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Exam Meme</title>
+</head>
+<body>
+
+    <h1>Student Life Meme</h1>
+
+    <h2>Before Exams</h2>
+
+    <p>
+        Me: I'll start studying one day before the exam.
+    </p>
+
+    <p>
+        Also me: Doesn't finish the syllabus.
+    </p>
+
+    <img src="https://i.imgflip.com/2kbn1e.jpg"
+         alt="Surprised Pikachu"
+         width="400">
+
+    <p>
+        Me after seeing the question paper:
+        Surprised Pikachu Face.
+    </p>
+
+    <hr>
+
+    <p>
+        This meme is funny because many students procrastinate and then get
+        shocked when the exam is difficult.
+    </p>
+
+</body>
+</html>
