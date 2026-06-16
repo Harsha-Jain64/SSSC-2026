@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Zomato Restaurant Page</title>
+</head>
+<body>
+
+    <h1>Food Junction</h1>
+
+    <p>Welcome to Food Junction. Enjoy our delicious meals!</p>
+
+    <h2>Menu</h2>
+
+    <table border="1">
+        <tr>
+            <th>Dish Name</th>
+            <th>Price</th>
+        </tr>
+        <tr>
+            <td>Veg Burger</td>
+            <td>₹120</td>
+        </tr>
+        <tr>
+            <td>Cheese Pizza</td>
+            <td>₹250</td>
+        </tr>
+        <tr>
+            <td>Pasta</td>
+            <td>₹180</td>
+        </tr>
+        <tr>
+            <td>Cold Coffee</td>
+            <td>₹90</td>
+        </tr>
+    </table>
+
+    <h2>Customer Reviews</h2>
+
+    <ul>
+        <li>Food was very tasty.</li>
+        <li>Fast delivery and good packaging.</li>
+        <li>Reasonable prices and friendly staff.</li>
+    </ul>
+
+    <h2>Place Your Order</h2>
+
+    <form>
+        <label>Enter Your Name:</label><br>
+        <input type="text"><br><br>
+
+        <label>Select Item:</label><br>
+        <input type="text"><br><br>
+
+        <input type="submit" value="Order Now">
+    </form>
+
+</body>
+</html>
